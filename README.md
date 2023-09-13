@@ -1,5 +1,7 @@
 # Diabetic Foot Ulcer Detection and Monitoring
 
+Project carried out with the cooperation of IST and ETSIT.
+
 **Project Description:**
 
 This project focuses on the early detection and monitoring of diabetic foot ulcers using machine learning techniques. Diabetic foot ulcers are a severe complication of diabetes that can lead to amputations and even mortality. Early detection and treatment are crucial to prevent these ulcers from worsening.
